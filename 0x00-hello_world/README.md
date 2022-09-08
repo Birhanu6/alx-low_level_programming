@@ -29,7 +29,7 @@ What you should learn from this project:
 ### 6. [Size is not grandeur, and territory does not make a nation](./6-size.c)
 * Write a C program that prints the size of various types on the computer it is compiled and run on.
 
-### 7. [What happens when you type gcc main.c](./100-intel)
+### 7. [Intel](./100-intel)
 * Write a script that generates the assembly code (Intel syntax) of a C code and save it in an output file.
 
 ---
